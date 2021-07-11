@@ -9,6 +9,7 @@ body{
     background-color: rgb(241, 241, 241);
 }
 .attention{
+    padding: auto;
     width: 1200px;
     background-color: #ffffff;
     text-align: center;
@@ -16,7 +17,7 @@ body{
     border-color: rgb(255, 0, 0);
 }
 article{
-    margin: auto;
+    padding: auto;
     width: 1200px;
 }
 .index{
