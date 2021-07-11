@@ -5,11 +5,11 @@ body{
     "Hiragino Sans",
     Meiryo,
     sans-serif;
-    width: 1000px;
+    width: 1500px;
     background-color: rgb(241, 241, 241);
 }
 .attention{
-    width: 800px;
+    width: 1200px;
     background-color: #ffffff;
     text-align: center;
     border: 3px solid;
@@ -17,7 +17,7 @@ body{
 }
 article{
     margin: auto;
-    width: 800px;
+    width: 1200px;
 }
 .index{
     background-color: rgba(189, 255, 255, 0.753);
