@@ -1,14 +1,22 @@
 body{
+    font-family: "Helvetica Neue",
+    Arial,
+    "Hiragino Kaku Gothic ProN",
+    "Hiragino Sans",
+    Meiryo,
+    sans-serif;
     width: 1000px;
     background-color: rgb(241, 241, 241);
 }
 .attention{
-    width: 600px;
+    width: 800px;
     background-color: #ffffff;
     text-align: center;
     border: 3px solid;
     border-color: rgb(255, 0, 0);
 }
-.index{
-    width: 900px;
+article{
+    background-color: aqua;
+    margin: auto;
+    width: 800px;
 }
