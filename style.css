@@ -1,3 +1,15 @@
 body{
     width: 1000px;
+    background-color: rgb(241, 241, 241);
+}
+.attention{
+    width: 600px;
+    background-color: #ffffff;
+    text-align: center;
+    border: 3px solid;
+    border-color: rgb(255, 0, 0);
+}
+.index{
+    width: 900px;
+    text-align: center;
 }
