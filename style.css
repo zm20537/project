@@ -33,6 +33,9 @@ article{
 .kuhaku{
     margin-right: 5px;
 }
-summary{
+details{
     margin-bottom: 25px;
+}
+summary{
+    margin-bottom: 10px;
 }
