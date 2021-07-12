@@ -34,5 +34,8 @@ article{
     margin-right: 5px;
 }
 details{
-    margin-bottom: 20px;
+    margin-bottom: 50px;
+}
+summary{
+    margin-bottom: 50px;
 }
