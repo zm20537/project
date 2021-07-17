@@ -7,6 +7,10 @@ body{
     sans-serif;
     background-color: rgb(241, 241, 241);
 }
+h1{
+    text-align: center;
+    color: #ff841fdc;
+}
 .attention{
     margin: 30px auto;
     width: 1200px;
