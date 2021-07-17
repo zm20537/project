@@ -58,6 +58,6 @@ summary{
 }
 /*他のページに移動*/
 .move{
-    width: 500px;
+    width: auto;
     text-align: center;
 }
