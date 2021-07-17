@@ -10,7 +10,6 @@ body{
 }
 h1{
     text-align: center;
-    color: #ff841fdc;
 }
 .attention{
     margin: 30px auto;
@@ -19,6 +18,9 @@ h1{
     text-align: center;
     border: 3px solid;
     border-color: rgb(255, 0, 0);
+}
+.midashi{
+    color: #fcff32;
 }
 article{
     margin: 30px auto;
