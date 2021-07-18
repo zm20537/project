@@ -105,12 +105,7 @@ article{
 .kuhaku{
     margin-right: 5px;
 }
-details{
-    margin-bottom: 20px;
-}
-summary{
-    margin-bottom: 5px;
-}
+
 /*趣味*/
 .hobbytop{
     font-size: 36px;
@@ -122,6 +117,12 @@ summary{
     padding: 1px 0;
     margin: 100px 0;
 }
+details{
+    margin-bottom: 10px;
+}
+summary{
+    margin-bottom: 5px;
+}
 .ereki{
     padding: 0.2em 0.5em;
     margin: 2em 0;
@@ -130,7 +131,11 @@ summary{
     border: dashed 2px white;
 }
 .game{
-
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d6ebff;
+    box-shadow: 0px 0px 0px 10px #d6ebff;
+    border: dashed 2px white;
 }
 .anima{
 
