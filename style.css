@@ -63,6 +63,13 @@ article{
     color: #000000;
     font-weight: bold;
 }
+.keiretsu{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #232323;
+    background: #fff8e8;
+    border-left: solid 10px #ffc06e;
+}
 .univer{
     position: relative;
     margin: 2em 0;
