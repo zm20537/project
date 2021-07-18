@@ -50,7 +50,7 @@ article{
     border: solid 3px #95ccff;
     border-radius: 8px;
 }
-.hights.box-title{
+.hights .box-title{
     position: absolute;
     display: inline-block;
     top: -13px;
