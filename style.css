@@ -37,10 +37,30 @@ article{
     background: rgb(255, 255, 255);
     border-left: double 7px #4cdaec;
 }
+/*経歴*/
 .keireki{
     margin-right: 10px;
     margin-left: 10px;
     margin-top: 50px;
+}
+.hights{
+    position: relative;
+    margin: 2em 0;
+    padding: 0.5em 1em;
+    border: solid 3px #95ccff;
+    border-radius: 8px;
+}
+.hights.tsukusaka{
+    position: absolute;
+    display: inline-block;
+    top: -13px;
+    left: 10px;
+    padding: 0 9px;
+    line-height: 1;
+    font-size: 19px;
+    background: #FFF;
+    color: #95ccff;
+    font-weight: bold;
 }
 .mr30{
     margin-right: 30px;
