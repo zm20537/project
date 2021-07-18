@@ -129,33 +129,52 @@ summary{
 .ereki{
     padding: 0.2em 0.5em;
     margin: 2em 0;
-    background: #d6ebff;
-    box-shadow: 0px 0px 0px 10px #d6ebff;
+    background: #c4ffed;
+    box-shadow: 0px 0px 0px 10px #c4ffed;
     border: dashed 2px white;
 }
 .game{
     padding: 0.2em 0.5em;
     margin: 2em 0;
-    background: #daedff;
-    box-shadow: 0px 0px 0px 10px #daedff;
+    background: #f4baff;
+    box-shadow: 0px 0px 0px 10px #f4baff;
     border: dashed 2px white;
 }
 .fps{
     padding: 0.2em 0.5em;
     margin: 2em 0;
-    background: #a4f1ff;
+    background: #f9daff;
 }
 .apex{
     padding: 0.2em 0.5em;
     margin: 2em 0;
-    background: #a4f1ff;
+    background: #f9daff;
 }
 .bf5{
     padding: 0.2em 0.5em;
     margin: 2em 0;
-    background: #a4f1ff;
+    background: #f9daff;
 }
 .anima{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #e2ba8b;
+    box-shadow: 0px 0px 0px 10px #e2ba8b;
+    border: dashed 2px white;
+}
+.anime{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #e2caae;
+    box-shadow: 0px 0px 0px 10px #e2caae;
+    border: dashed 2px white;
+}
+.comic{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #e2caae;
+    box-shadow: 0px 0px 0px 10px #e2caae;
+    border: dashed 2px white;
 }
 .pc{
 }
