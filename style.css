@@ -40,11 +40,11 @@ article{
 /*経歴*/
 .careertop{
     font-size: 36px;
-    text-align: center;
     color: black;
     background-color: #95ccff;
-    padding: 30px 30px 30px 30px;
-    margin: 50px auto 30px auto;
+    width: auto;
+    padding: 10px 15px;
+    margin: 100px 0;
 }
 .keireki{
     margin-right: 10px;
