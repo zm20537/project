@@ -52,7 +52,6 @@ article{
     padding: 1px 0;
     margin: 100px 0;
 }
-
 .hights{
     position: relative;
     margin: 2em 0;
@@ -113,6 +112,15 @@ summary{
     margin-bottom: 5px;
 }
 /*趣味*/
+.hobbytop{
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+    background-color: #dbfd5d;
+    padding: 1px 0;
+    margin: 100px 0;
+}
 .ereki{
 
 }
