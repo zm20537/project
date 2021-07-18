@@ -137,45 +137,48 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7ceff;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
+    box-shadow: 0px 0px 0px 10px #f7ceff;
     border: dashed 2px white;
 }
-.fps{
+.game .fps{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    border: solid 2px white;
+    border-radius: 10px;
 }
-.apex{
+.game .apex{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    border: solid 2px white;
+    border-radius: 10px;
 }
-.bf5{
+.game .bf5{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    border: solid 2px white;
+    border-radius: 10px;
 }
 .anima{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e6c9a9;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
+    box-shadow: 0px 0px 0px 10px #e6c9a9;
     border: dashed 2px white;
 }
-.anime{
+.anima .anime{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e6cfb6;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
-.comic{
+.anima .comic{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e6cfb6;
@@ -186,7 +189,7 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #c0e1ff;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
+    box-shadow: 0px 0px 0px 10px #c0e1ff;
     border: dashed 2px white;
 }
 .pc .spec{
