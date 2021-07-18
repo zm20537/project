@@ -189,56 +189,56 @@ summary{
     box-shadow: 0px 0px 0px 10px #c0e1ff;
     border: dashed 2px white;
 }
-.pc.spec{
+.pc .spec{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #cfe7fd;
     box-shadow: 0px 0px 0px 10px #cfe7fd;
     border: dashed 2px white;
 }
-.pc.machine{
+.pc .machine{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #cfe7fd;
     box-shadow: 0px 0px 0px 10px #cfe7fd;
     border: dashed 2px white;
 }
-.pc.machine.monitor{
+.pc .machine .monitor{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
     box-shadow: 0px 0px 0px 10px #e0eefc;
     border: dashed 2px white;
 }
-.pc.machine.mouse{
+.pc .machine .mouse{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
     box-shadow: 0px 0px 0px 10px #e0eefc;
     border: dashed 2px white;
 }
-.pc.pc.machine.keybo{
+.pc .machine .keybo{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
     box-shadow: 0px 0px 0px 10px #e0eefc;
     border: dashed 2px white;
 }
-.pc.machine.mic{
+.pc .machine .mic{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
     box-shadow: 0px 0px 0px 10px #e0eefc;
     border: dashed 2px white;
 }
-.pc.machine.audio{
+.pc .machine .audio{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
     box-shadow: 0px 0px 0px 10px #e0eefc;
     border: dashed 2px white;
 }
-.pc.machine.speaker{
+.pc .machine .speaker{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
