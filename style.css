@@ -193,62 +193,63 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #cfe7fd;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
+    box-shadow: 0px 0px 0px 10px #cfe7fd;
+    border: dashed 2px white;
 }
 .pc .machine{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #cfe7fd;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
+    box-shadow: 0px 0px 0px 10px #cfe7fd;
+    border: dashed 2px white;
 }
 .pc .machine .monitor{
     width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    box-shadow: 0 3px 4px #e0eefc;
+    border: solid 2px #ffffff;
 }
 .pc .machine .mouse{
     width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    box-shadow: 0 3px 4px #e0eefc;
+    border: solid 2px #ffffff;
 }
 .pc .machine .keybo{
     width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    box-shadow: 0 3px 4px #e0eefc;
+    border: solid 2px #ffffff;
 }
 .pc .machine .mic{
     width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    box-shadow: 0 3px 4px #e0eefc;
+    border: solid 2px #ffffff;
 }
 .pc .machine .audio{
     width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    box-shadow: 0 3px 4px #e0eefc;
+    border: solid 2px #ffffff;
 }
 .pc .machine .speaker{
     width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0px 0px 0px 10px #e0eefc;
-    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
+    box-shadow: 0 3px 4px #e0eefc;
+    border: solid 2px #ffffff;
 }
 /*おすすめ*/
 .recommen{
