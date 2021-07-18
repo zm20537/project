@@ -38,6 +38,14 @@ article{
     border-left: double 7px #4cdaec;
 }
 /*経歴*/
+.careertop{
+    font-size: 36px;
+    text-align: center;
+    color: black;
+    background-color: #95ccff;
+    padding: 30px 30px 30px 30px;
+    margin: 50px auto 30px auto;
+}
 .keireki{
     margin-right: 10px;
     margin-left: 10px;
@@ -74,7 +82,7 @@ article{
     position: relative;
     margin: 2em 0;
     padding: 30px 35px;
-    border: solid 3px #4dff6b;
+    border: solid 3px #95ccff;
     border-radius: 8px;
     background-color: #ffffff;
 }
