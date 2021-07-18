@@ -204,7 +204,7 @@ summary{
     border: dashed 2px white;
 }
 .pc .machine .monitor{
-    width: 700px;
+    width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
@@ -212,7 +212,7 @@ summary{
     border: dashed 2px white;
 }
 .pc .machine .mouse{
-    width: 700px;
+    width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
@@ -220,7 +220,7 @@ summary{
     border: dashed 2px white;
 }
 .pc .machine .keybo{
-    width: 700px;
+    width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
@@ -228,7 +228,7 @@ summary{
     border: dashed 2px white;
 }
 .pc .machine .mic{
-    width: 700px;
+    width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
@@ -236,7 +236,7 @@ summary{
     border: dashed 2px white;
 }
 .pc .machine .audio{
-    width: 700px;
+    width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
@@ -244,7 +244,7 @@ summary{
     border: dashed 2px white;
 }
 .pc .machine .speaker{
-    width: 700px;
+    width: 650px;
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
