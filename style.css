@@ -45,10 +45,11 @@ article{
 }
 .careertop{
     font-size: 36px;
+    font-weight: bold;
     text-align: center;
     color: black;
     background-color: #95ccff;
-    padding: 10px 15px;
+    padding: 0 0;
     margin: 100px 0;
 }
 
