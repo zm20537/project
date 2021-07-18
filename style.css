@@ -144,16 +144,22 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
+    box-shadow: 0px 0px 0px 10px #f7d5fd;
+    border: dashed 2px white;
 }
 .apex{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
+    box-shadow: 0px 0px 0px 10px #f7d5fd;
+    border: dashed 2px white;
 }
 .bf5{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
+    box-shadow: 0px 0px 0px 10px #f7d5fd;
+    border: dashed 2px white;
 }
 .anima{
     padding: 0.2em 0.5em;
@@ -177,6 +183,67 @@ summary{
     border: dashed 2px white;
 }
 .pc{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #c0e1ff;
+    box-shadow: 0px 0px 0px 10px #c0e1ff;
+    border: dashed 2px white;
+}
+.pc.spec{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #cfe7fd;
+    box-shadow: 0px 0px 0px 10px #cfe7fd;
+    border: dashed 2px white;
+}
+.pc.machine{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #cfe7fd;
+    box-shadow: 0px 0px 0px 10px #cfe7fd;
+    border: dashed 2px white;
+}
+.pc.machine.monitor{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d8ebfd;
+    box-shadow: 0px 0px 0px 10px #d8ebfd;
+    border: dashed 2px white;
+}
+.pc.machine.mouse{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d8ebfd;
+    box-shadow: 0px 0px 0px 10px #d8ebfd;
+    border: dashed 2px white;
+}
+.pc.pc.machine.keybo{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d8ebfd;
+    box-shadow: 0px 0px 0px 10px #d8ebfd;
+    border: dashed 2px white;
+}
+.pc.machine.mic{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d8ebfd;
+    box-shadow: 0px 0px 0px 10px #d8ebfd;
+    border: dashed 2px white;
+}
+.pc.machine.audio{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d8ebfd;
+    box-shadow: 0px 0px 0px 10px #d8ebfd;
+    border: dashed 2px white;
+}
+.pc.machine.speaker{
+    padding: 0.2em 0.5em;
+    margin: 2em 0;
+    background: #d8ebfd;
+    box-shadow: 0px 0px 0px 10px #d8ebfd;
+    border: dashed 2px white;
 }
 /*おすすめ*/
 .recommen{
