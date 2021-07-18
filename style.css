@@ -6,7 +6,7 @@ body{
     Meiryo,
     sans-serif;
     background-color: rgb(241, 241, 241);
-    width: auto;
+    width: 900px;
 }
 h1{
     text-align: center;
@@ -32,8 +32,11 @@ article{
 }
 .index{
     margin: 30px auto;
-    padding: 10px 0px 15px 20px;
-    background-color: rgba(189, 255, 255, 0.753);
+    padding: 0.5em 1em;
+    color: #474747;
+    background: whitesmoke;
+    border-left: double 7px #4ec4d3;
+    border-right: double 7px #4ec4d3;
 }
 .keireki{
     margin-right: 10px;
