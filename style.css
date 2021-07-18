@@ -36,10 +36,12 @@ article{
     background-color: rgba(189, 255, 255, 0.753);
 }
 .keireki{
+    margin-right: 10px;
+    margin-left: 10px;
     margin-top: 50px;
 }
-.mr80{
-    margin-right: 80px;
+.mr30{
+    margin-right: 30px;
 }
 .kuhaku{
     margin-right: 5px;
