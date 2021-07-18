@@ -128,14 +128,14 @@ summary{
 }
 .ereki{
     padding: 0.2em 0.5em;
-    margin: 0 0 50px 0;
+    margin: 0 0 100px 0;
     background: #c4ffed;
     box-shadow: 0px 0px 0px 10px #c4ffed;
     border: dashed 2px rgb(201, 200, 200);
 }
 .game{
     padding: 0.2em 0.5em;
-    margin: 0 0 50px 0;
+    margin: 0 0 100px 0;
     background: #f7ceff;
     box-shadow: 0px 0px 0px 10px #f7ceff;
     border: dashed 2px white;
@@ -163,7 +163,7 @@ summary{
 }
 .anima{
     padding: 0.2em 0.5em;
-    margin: 0 0 50px 0;
+    margin: 0 0 100px 0;
     background: #e6c9a9;
     box-shadow: 0px 0px 0px 10px #e6c9a9;
     border: dashed 2px white;
@@ -184,7 +184,7 @@ summary{
 }
 .pc{
     padding: 0.2em 0.5em;
-    margin: 0 0 50px 0;
+    margin: 0 0 100px 0;
     background: #c0e1ff;
     box-shadow: 0px 0px 0px 10px #c0e1ff;
     border: dashed 2px white;
@@ -252,7 +252,7 @@ summary{
 /*他のページに移動*/
 .move{
     width: auto;
-    margin-top: 100px;
-    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
     text-align: center;
 }
