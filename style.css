@@ -145,24 +145,21 @@ summary{
     margin: 2em 0;
     background: #f7d5fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: solid 2px white;
-    border-radius: 10px;
+    border: solid 2px #f7d5fd;
 }
 .game .apex{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: solid 2px white;
-    border-radius: 10px;
+    border: solid 2px #f7d5fd;
 }
 .game .bf5{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: solid 2px white;
-    border-radius: 10px;
+    border: solid 2px #f7d5fd;
 }
 .anima{
     padding: 0.2em 0.5em;
@@ -197,14 +194,12 @@ summary{
     margin: 2em 0;
     background: #cfe7fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
 }
 .pc .machine{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #cfe7fd;
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
-    border: dashed 2px white;
 }
 .pc .machine .monitor{
     width: 650px;
