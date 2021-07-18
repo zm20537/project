@@ -130,77 +130,77 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #c4ffed;
-    box-shadow: 0px 0px 0px 10px #c4ffed;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px rgb(214, 214, 214);
 }
 .game{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7ceff;
-    box-shadow: 0px 0px 0px 10px #f7ceff;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .fps{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
-    box-shadow: 0px 0px 0px 10px #f7d5fd;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .apex{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
-    box-shadow: 0px 0px 0px 10px #f7d5fd;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .bf5{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #f7d5fd;
-    box-shadow: 0px 0px 0px 10px #f7d5fd;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .anima{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e6c9a9;
-    box-shadow: 0px 0px 0px 10px #e6c9a9;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .anime{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e6cfb6;
-    box-shadow: 0px 0px 0px 10px #e6cfb6;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .comic{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e6cfb6;
-    box-shadow: 0px 0px 0px 10px #e6cfb6;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #c0e1ff;
-    box-shadow: 0px 0px 0px 10px #c0e1ff;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .spec{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #cfe7fd;
-    box-shadow: 0px 0px 0px 10px #cfe7fd;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .machine{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #cfe7fd;
-    box-shadow: 0px 0px 0px 10px #cfe7fd;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .machine .monitor{
@@ -208,7 +208,7 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0px 0px 0px 10px #e0eefc;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .machine .mouse{
@@ -216,7 +216,7 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0px 0px 0px 10px #e0eefc;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .machine .keybo{
@@ -224,7 +224,7 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0px 0px 0px 10px #e0eefc;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .machine .mic{
@@ -232,7 +232,7 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0px 0px 0px 10px #e0eefc;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .machine .audio{
@@ -240,7 +240,7 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0px 0px 0px 10px #e0eefc;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 .pc .machine .speaker{
@@ -248,7 +248,7 @@ summary{
     padding: 0.2em 0.5em;
     margin: 2em 0;
     background: #e0eefc;
-    box-shadow: 0px 0px 0px 10px #e0eefc;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
     border: dashed 2px white;
 }
 /*おすすめ*/
