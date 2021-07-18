@@ -38,19 +38,21 @@ article{
     border-left: double 7px #4cdaec;
 }
 /*経歴*/
-.careertop{
-    font-size: 36px;
-    color: black;
-    background-color: #95ccff;
-    width: auto;
-    padding: 10px 15px;
-    margin: 100px 0;
-}
 .keireki{
     margin-right: 10px;
     margin-left: 10px;
     margin-top: 50px;
 }
+.careertop{
+    font-size: 36px;
+    text-align: center;
+    color: black;
+    background-color: #95ccff;
+    width: 900px;
+    padding: 10px 15px;
+    margin: 100px 0;
+}
+
 .hights{
     position: relative;
     margin: 2em 0;
