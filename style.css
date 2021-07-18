@@ -20,8 +20,8 @@ h2{
     width: 850px;
     background-color: #ffffff;
     text-align: center;
-    border: 3px solid;
-    border-color: rgb(255, 0, 0);
+    padding: 0.5em 1em;
+    border: double 5px #4ec4d3;
 }
 .midashi{
     color: #3262ff;
