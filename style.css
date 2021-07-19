@@ -263,8 +263,7 @@ summary{
     background: #fff0cd;
     box-shadow: 0px 0px 0px 5px #fff0cd;
     border: dashed 2px white;
-    padding: 0.2em 0.5em;
-    color: #454545;
+    padding: 10px 20px;
 }
 .intro:after{
     position: absolute;
