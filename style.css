@@ -246,9 +246,53 @@ summary{
     box-shadow: 0 3px 4px rgba(0, 0, 0, 0.32);
 }
 /*おすすめ*/
-.recommen{
+.recommend{
 
 }
+.recotop{
+    background-color: #39ec99;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    padding: 1px 0;
+    margin: 100px 0;
+}
+.intro{
+    position: relative;
+    background: #fff0cd;
+    box-shadow: 0px 0px 0px 5px #fff0cd;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+    color: #454545;
+}
+.intro:after{
+    position: absolute;
+    content: '';
+    right: -7px;
+    top: -7px;
+    border-width: 0 15px 15px 0;
+    border-style: solid;
+    border-color: #ffdb88 #fff #ffdb88;
+    box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
+}
+.okbass{
+    margin:2em 0;
+    position: relative;
+    padding: 0.5em 1.5em;
+    border-top: solid 2px black;
+    border-bottom: solid 2px black;
+}
+.okbass:before, .okbass:after{
+    content: '';
+    position: absolute;
+    top: -10px;
+    width: 2px;
+    height: -webkit-calc(100% + 20px);
+    height: calc(100% + 20px);
+    background-color: black;
+}
+.okbass:before {left: 10px;}
+.okbass:after {right: 10px;}
 /*他のページに移動*/
 .move{
     width: auto;
