@@ -247,8 +247,8 @@ summary{
 }
 /*おすすめ*/
 .recommend{
-    text-align: center;
     width: 800px;
+    margin: 100px auto;
 }
 .recotop{
     background-color: #39ec99;
@@ -260,6 +260,7 @@ summary{
 }
 .intro{
     position: relative;
+    text-align: center;
     background: #fff0cd;
     box-shadow: 0px 0px 0px 5px #fff0cd;
     border: dashed 2px white;
@@ -293,6 +294,12 @@ summary{
 }
 .okbass:before {left: 10px;}
 .okbass:after {right: 10px;}
+.mrtop{
+    margin-top: 30px;
+}
+dd{
+    margin-bottom: 50px;
+}
 /*他のページに移動*/
 .move{
     width: auto;
