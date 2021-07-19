@@ -247,14 +247,15 @@ summary{
 }
 /*おすすめ*/
 .recommend{
-
+    text-align: center;
+    width: 800px;
 }
 .recotop{
     background-color: #39ec99;
     font-size: 36px;
     font-weight: bold;
     text-align: center;
-    padding: 1px 0;
+    padding: 15px 0;
     margin: 100px 0;
 }
 .intro{
