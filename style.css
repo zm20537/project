@@ -277,9 +277,9 @@ summary{
     box-shadow: -1px 1px 1px rgba(0, 0, 0, 0.15);
 }
 .okbass{
-    margin:2em 0;
+    margin:50px 0;
     position: relative;
-    padding: 0.5em 1.5em;
+    padding: 50px 50px;
     border-top: solid 2px black;
     border-bottom: solid 2px black;
 }
@@ -296,9 +296,6 @@ summary{
 .okbass:after {right: 10px;}
 .mrtop{
     margin-top: 30px;
-}
-dd{
-    margin-bottom: 50px;
 }
 /*他のページに移動*/
 .move{
